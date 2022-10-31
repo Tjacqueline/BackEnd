@@ -19,6 +19,7 @@ D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfoli
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Security\Dto\JwtDto.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Dto\dtoExperiencia.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Security\Controller\Mensaje.java
+D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Dto\dtoPersona.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Security\Repository\iUsuarioRepository.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\TjvApplication.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Dto\dtoHys.java
@@ -34,6 +35,5 @@ D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfoli
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Security\Controller\AuthController.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Controller\PersonaController.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Security\Entity\Rol.java
-D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Interface\IPersonaService.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Security\jwt\JwtEntryPoint.java
 D:\videlatj\portfolio-videla\portfolio-videla\BackEnd\src\main\java\com\portfolio\tjv\Security\jwt\JwtProvider.java

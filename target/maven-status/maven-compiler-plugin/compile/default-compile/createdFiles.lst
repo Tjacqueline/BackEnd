@@ -1,6 +1,7 @@
 com\portfolio\tjv\Security\MainSecurity.class
 com\portfolio\tjv\Security\Entity\Rol.class
 com\portfolio\tjv\Controller\PersonaController.class
+com\portfolio\tjv\Dto\dtoPersona.class
 com\portfolio\tjv\Entity\Educacion.class
 com\portfolio\tjv\Dto\dtoExperiencia.class
 com\portfolio\tjv\Security\Dto\JwtDto.class
@@ -33,7 +34,6 @@ com\portfolio\tjv\Service\SExperiencia.class
 com\portfolio\tjv\Entity\Experiencia.class
 com\portfolio\tjv\Security\Entity\UsuarioPrincipal.class
 com\portfolio\tjv\Security\Service\RolService.class
-com\portfolio\tjv\Interface\IPersonaService.class
 com\portfolio\tjv\Repository\Rhys.class
 com\portfolio\tjv\Security\Dto\NuevoUsuario.class
 com\portfolio\tjv\Security\Controller\AuthController.class
