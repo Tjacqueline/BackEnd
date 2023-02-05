@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfolio.tjv.TjvApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 40.001 s - in com.portfolio.tjv.TjvApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 144.982 s - in com.portfolio.tjv.TjvApplicationTests
